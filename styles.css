@@ -1,0 +1,49 @@
+body {
+background-color: rgb(0, 4, 255);
+display: flex;
+flex-direction: column;
+align-items: auto;
+justify-content:center;
+}
+
+#div1{
+    margin-right: auto;
+}
+
+#div2{
+    margin-left: auto;
+background-color: blanchedalmond;
+
+}
+#tittle_sec2{
+    background-color: blanchedalmond;
+}
+
+div h1 {
+background-color: grey;
+    color: rgb(2, 2, 19);
+}
+
+#tittle_sec {
+color: rgb(33, 11, 87);
+}
+#first_p {
+background-color: grey;
+font-size: 18px;
+font-weight: bold;
+line-height: 18px;
+}
+
+div  {
+    background-color: mediumaquamarine;
+    margin: 10px;
+    padding: 10px;
+    width: 600px;
+    }
+    
+    div {
+    background-color: grey;
+    margin: 10px;
+    padding: 10px;
+    width: 600px;
+}
